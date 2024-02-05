@@ -59,3 +59,8 @@ Overall, this combination of pre-trained embeddings, cosine similarity, and sent
 ## Results Analysis
 
 The tool successfully identifies phrases in the input text that are similar to the standard phrases. However, some improvements could be made to enhance accuracy. For example, considering the context of the surrounding words and phrases could provide more accurate results. With more time, additional techniques like contextual embeddings and a larger training dataset could be explored for better performance.
+
+## Video explanation
+
+Here you can see my video explanation of the code and improvement suggestions.
+https://drive.google.com/file/d/1kmAxKC7EtqPCRFXDIoA6cB-a6GzeacFQ/view?usp=sharing
